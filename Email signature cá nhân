@@ -1,0 +1,47 @@
+<table cellpadding="0" cellspacing="0" style="font-family: Arial, sans-serif; font-size: 13px; color: #333;">
+  <tr>
+    <td style="padding-right:14px; vertical-align: top;">
+      <img src="https://github.com/akay2002/email-signature/blob/376afbee66b01dd9b9b7a17f930fbecaccd90d4a/Ch%C3%A2n%20dung%20square.jpg?raw=true"
+           width="80"
+           style="border-radius:50%;"
+           alt="Kay Nguyen Photo"/>
+    </td>
+
+    <td style="vertical-align: top;">
+      <strong style="font-size:15px; color:#005CB9;">
+        Nguyễn Lê Khánh | Kay Nguyen (Mr.)
+      </strong><br/>
+
+      <a href="tel:+84914844823" style="color:#333; text-decoration:none;">
+        (+84) 914 844 823
+      </a><br/>
+
+      <a href="mailto:nguyenlekhanh.x02@gmail.com" style="color:#333; text-decoration:none;">
+        nguyenlekhanh.x02@gmail.com
+      </a><br/>
+
+      <!-- Icons -->
+      <div style="margin-top:8px;">
+        <a href="https://linkedin.com/in/khanh-x02/" target="_blank" style="text-decoration:none;">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+               width="18"
+               alt="LinkedIn"/>
+        </a>
+        &nbsp;&nbsp;
+
+        <a href="https://wa.me/84914844823" target="_blank" style="text-decoration:none;">
+          <img src="https://th.bing.com/th/id/ODF.4keNqCxW30m7PuDZ-mrvxQ?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2"
+               width="18"
+               alt="WhatsApp"/>
+        </a>
+        &nbsp;&nbsp;
+
+        <a href="https://zalo.me/84914844823" target="_blank" style="text-decoration:none;">
+          <img src="https://play-lh.googleusercontent.com/Zs0-SVFd7FHABCT6buDhAVmOZHlIJS8Z37LMmWghcJV9N4ryZfpI0dZa0jzejcJ3cQ"
+               width="18"
+               alt="Zalo"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
